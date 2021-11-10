@@ -1,3 +1,3 @@
 # python-bootcamp
 
-learn python
+:snake:
